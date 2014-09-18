@@ -5,6 +5,9 @@ ruby '2.1.2'
 gem 'thin'
 gem 'rails_12factor'
 
+# Add devise
+gem 'devise'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.6'
 # Use postgresql as the database for Active Record
